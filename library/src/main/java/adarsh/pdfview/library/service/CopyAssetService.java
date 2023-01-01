@@ -21,7 +21,7 @@ import android.content.Intent;
 
 import java.io.IOException;
 
-import adarsh.pdfviewpager.library.BuildConfig;
+import adarsh.pdfview.library.BuildConfig;
 import adarsh.pdfview.library.util.FileUtil;
 
 public class CopyAssetService extends IntentService {
